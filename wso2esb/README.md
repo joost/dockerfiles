@@ -21,8 +21,9 @@ The cloned local copy of WSO2 Dockerfiles will be referred as `DOCKERFILES_HOME`
         + `./run.sh -v 4.9.0`
 
 * Access management console
-    -  To access the management console, use the docker host IP and port 9443.
+    - To access the management console, use the docker host IP and port 9443.
         + `https://<DOCKER_HOST_IP>:9443/carbon`
+    - Login using username `admin` and password `admin`.
 
 ## Detailed Configuration
 
